@@ -3,3 +3,48 @@
     height: 250px;
     background-color: rgb(145, 74, 74);
 }
+
+.publish h3 {
+    font-family: Helvetica;
+    font-size: 40px;
+    line-height: 20px;
+    color: #025157;
+  }
+  
+  .publish > p {
+    font-family: arial;
+    font-size: 16px;
+    color: #343434;
+    line-height: 2;
+    margin-bottom: 15px;
+  }
+  
+  .publish > form {
+    display: flex;
+    
+  }
+  
+  .publish > form p {
+    color: #025157;
+    margin-right: 30px;
+    margin-top: 0px;
+    
+  }
+  
+  .boton_1{
+        text-decoration: none;
+        padding: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-family: Helvetica;
+        font-weight: 300;
+        font-size: 12px;
+        color: white;
+        background-color: #025157;
+        border-radius: 15px;
+        border: 3px double #025157;
+      }
+      .boton_1:hover{
+        opacity: 0.6;
+        text-decoration: none;
+      }
