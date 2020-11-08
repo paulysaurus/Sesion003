@@ -3,3 +3,14 @@
     height: 250px;
     background-color: rgb(145, 74, 74);
 }
+
+.explanatory-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
+  }
